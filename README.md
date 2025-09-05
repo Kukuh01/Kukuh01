@@ -39,9 +39,7 @@ Hi, I'm Silvanus, a web developer and networking enthusiast.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kukuh01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kukuh01&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kukuh01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=Kukuh01&show_icons=true&theme=transparent)
 
 
 ### 🔝 Top Contributed Repo
