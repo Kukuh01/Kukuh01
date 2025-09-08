@@ -30,7 +30,7 @@ Hi, I'm Silvanus, a web developer and networking enthusiast.
 </p>
 
 # 📶 Github Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kukuh01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kukuh01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kukuh01&show_icons=true&count_private=true&theme=buefy&hide_border=true&cache_seconds=7200" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kukuh01&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 | <a href="https://github.com/abhisheknaiidu/github-contributor-stats"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kukuh01&limit=5&theme=buefy&combine_all_yearly_contributions=true&hide_border=true" /></a> | |
 
